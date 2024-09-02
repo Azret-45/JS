@@ -1,0 +1,21 @@
+body {
+  background: #835ba9;
+}
+.game-card {
+  height: 100vh;
+  font-family: 'Open Sans', monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+}
+.col.col-md-4.offset-md-4 {
+  margin-left: 0 !important;
+}
+.card.text-center {
+  border-radius: 16px;
+}
+h1 {
+  color: #fff;
+}
